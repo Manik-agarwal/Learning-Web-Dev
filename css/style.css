@@ -1,5 +1,10 @@
+*{
+    color: crimson;
+}
+
+
 p { 
-    color: brown;
+    color: black;
 
 } 
 button{
@@ -7,5 +12,9 @@ button{
     background-color: black;
 }
 body{
-    background-color:tan;
+    background-color:rgb(137, 45, 217);
 }
+#headingThree { 
+    color: black;
+}
+
