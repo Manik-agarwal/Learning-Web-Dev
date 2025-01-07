@@ -1,4 +1,4 @@
-*{
+/* *{
     color: crimson;
 }
 
@@ -17,4 +17,12 @@ body{
 #headingThree { 
     color: black;
 }
+ */
 
+ div{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    border: 2px dotted blue;
+    border-radius: 10%;
+ }
