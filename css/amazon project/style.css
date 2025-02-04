@@ -11,9 +11,19 @@
 
 }
 .nav-logo{
-    height: ;
+    height:50px ;
+    width: 100px;
 
 }
 .logo{
-    background-image: url(C:\Users\91750\Desktop\learing html\css\amazon project\amazon-6536326_1280.png);
+    background-image:url(amaon-logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 100%;
+}
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border: 1.5px solid white;
 }
