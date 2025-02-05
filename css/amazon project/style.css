@@ -126,6 +126,31 @@
 
 /*hero*/
 
-.hero{
-    background-image: url(pics/);
+.hero-section{
+    background-image: url(pics/main-image.jpg);
+    height: 400px ;
+   
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    
+    
+}
+.hero-msg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: black;
+    height: 40px;
+    font-size: 0.85rem;
+    width: 80%;
+    margin-bottom: 25px;
+    
+
+  
+}
+.hero-msg a{
+    color: #007185;
 }
