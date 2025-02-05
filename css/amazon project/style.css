@@ -157,12 +157,27 @@
 .shop-section{
     display: flex;
     justify-content: space-evenly;
+    background-color: rgb(184, 226, 197);
 }
 
 .box{
     
-    border: 2px solid black;
-    height: 100px;
-    width: 20%;
+    /* border: 2px solid black; */
+    height: 400pxpx;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin: 18px;
     
 }
+.box-img{
+    height: 300px;
+    margin-top: 1 rem;
+    margin-bottom: 1 rem;
+   
+}
+.box-content{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
