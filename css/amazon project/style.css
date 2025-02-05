@@ -55,6 +55,9 @@
     height: 40px;
     border-radius: 7px;
 }
+.nav-search:hover{
+    border: 2px solid orange;
+}
 .search-select{
     background-color: #f3f3f3;
     width: 50px;
@@ -79,5 +82,16 @@
     border-bottom-right-radius: 5px;
     border: none;
     color: #0F1111;
+    
+}
+
+/* box 4 */
+
+ span{
+    font-size: 0.7rem;
+ }
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 800 ;
     
 }
