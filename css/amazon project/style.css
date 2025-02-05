@@ -113,6 +113,7 @@
 }
 .panel-ops p{
     display: inline;
+    margin-left: 15px;
 }
 .panel-ops{
     width: 70%;
