@@ -156,6 +156,7 @@
 }
 .shop-section{
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: rgb(184, 226, 197);
 }
@@ -167,7 +168,7 @@
     width: 23%;
     background-color: white;
     padding: 20px 0px 15px;
-    margin: 18px;
+    margin: 15px;
     
 }
 .box-img{
