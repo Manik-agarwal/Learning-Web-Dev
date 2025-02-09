@@ -204,3 +204,10 @@ footer{
 
 
 }
+.foot-panel2{
+    background-color: #222f3d;
+    display: flex;
+    height: 500px;
+    color: white;
+
+}
