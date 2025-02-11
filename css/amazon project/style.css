@@ -224,7 +224,7 @@ ul a{
     color: #dddddd;
 }
 
-.foot-panel3{
+.footp3{
     background-color: #222f3d;
     color: white;
     border-top: 0.5px solid white;
@@ -236,9 +236,13 @@ ul a{
 }
 
 .logo{
-    background-image:url(pics/amazon-logo2.png.png);
+    background-image:url(pics/amaon-logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
+    
+}
+
+.foot-panel4{
     
 }
